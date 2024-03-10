@@ -1,0 +1,11 @@
+.tetrion {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+}
+
+.cell {
+    width: 35px;
+    height: 35px;
+    background-color: black;
+    border: 1px solid white;
+}
